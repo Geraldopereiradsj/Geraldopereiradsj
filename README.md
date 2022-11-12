@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geraldo.juniords/)
 
 ![Geraldopereiradsj GitHub stats](https://github-readme-stats.vercel.app/api?username=Geraldopereiradsj&show_icons=true&theme=radical)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldopereiradsj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldopereiradsj&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
