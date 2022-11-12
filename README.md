@@ -18,4 +18,3 @@
 ### <br> “Se existe uma forma de fazer melhor, descubra-a.” — Thomas Edison
 
 ### <br> E-mail: Geraldopereiradsj@gmail.com
-### Telefone: 22 9 9777 - 3136
