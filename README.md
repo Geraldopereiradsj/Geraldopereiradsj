@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d4119&height=120&section=header"/>
-</br></br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6d4119&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geraldo+Pereira;I'm+30+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br></br></br></br>
 
@@ -38,7 +35,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{geraldopereiradsj}/count.svg" /></p> 
 <br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d4119&height=120&section=footer"/>
-
