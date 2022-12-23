@@ -32,3 +32,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{geraldopereiradsj}/count.svg" /></p> 
 <br>
 </div>
+
+![Snake animation](https://github.com/geraldopereiradsj/geraldopereiradsj/blob/output/github-contribution-grid-snake.svg)
