@@ -9,8 +9,8 @@
 </br></br>
 
 <div align="center"> 
-⚔ Codewars Kyu 7: <a href="https://www.codewars.com/users/geraldopereirads" target="_blank"> <img align="center" src="https://www.codewars.com/users/Geraldopereirads/badges/small"> </a>
-  </br></br></br></br>
+⚔ Codewars Kyu 7: <a href="https://www.codewars.com/users/Geraldopereirads" target="_blank"> <img align="center" src="https://www.codewars.com/users/Geraldopereirads/badges/small"> </a>
+ </br></br></br></br>
 
 <div align="center"> 
 
